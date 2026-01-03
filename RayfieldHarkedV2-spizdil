@@ -791,7 +791,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "FE delete Dex",
    Callback = function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxexploiter691/harked-v2/refs/heads/main/dex.lua"))()
+    loadstring(game:HttpGet("https://github.com/sovetskii-shashlik/Im-engaged-in-spizding-/raw/main/dex.lua"))()
    end,
 })
 
